@@ -1,2 +1,4 @@
-# Compliance-Better-crafting-GUI
-A Crafting GUI addon for the complience 32x texture pack
+## Compliance Better Crafting GUI
+---
+Complience Better Craftng GUI is an addon for the [Complience 32x texture pack](https://compliancepack.net/)
+
